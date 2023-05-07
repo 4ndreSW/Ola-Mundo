@@ -1,49 +1,33 @@
 #
-# Ola, Mundo!
- Primeiro repositório do curso de Git e GitHub.
-
- Repositório criado durante a quinta aula do **curso de Git e GitHub** disponibilizado pelo canal Curso em Video.
-
- Linha adicionada atráves do proprio site.
+# Aula 10 - Guia da Linguagem MarkDown 
 
 
-## Lista de 'comandos':
+[Teste de imagem. Gatinho Top.](https://user-images.githubusercontent.com/119134825/236704154-4bddc97b-ed92-47b4-a682-d7d4e6e075d8.jpg)
 
-_Ítalico_ : _ ou *
- 
-~Riscado~ :  ~ 
+Acesse o canal do [Curso em Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 
-# Título nível 1 (h1) :  **#** 
+## Tabelas em MarkDown 
 
-## Título nível 2 (h2) :  **##**
+Num | Nome | Nota
+---|---|---
+1 |Gustavo| 8,5
+2 |José| 10
+3 |Maria| 9
 
-### Título nível 3 (h3) :  **###**
+Terminou a tabela!
 
-Para fazer uma linha : --- ou *** ; exemplo 
 
-***
+Não entendo direito para que serve o comando `document.getElementById()` do JavaScript.
 
-Podemos __*misturar*__ configurações 
+Olha meu programa em Python 
+```
+Num = int(input(Digite um valor: )
+if num % 2 == 0 
+    print(fOvalor {num} é PAR!")
+else 
+    print (f'O valor {num} é IMPAR!')
+```
 
-###Listas :
+Olá, pequeno Gafanhoto 🖖 🍷 🗿
 
-Lista númerada 
-
-1. Teste
-1. Test2
-   1. teste3
-
-Lista demarcada:
-
-* teste 
-* teste
-   * teste
-* teste
-- teste
-
-Lista de tarefas:
-
-- [x] Criar a página principal
-- [x] Criar a página da loja
-- [ ] Finalizar a reunião com o cliente
-- [ ] Receber :P
+Marcar pessoas @fulano890908032580325
